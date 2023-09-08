@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-3009&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-3009" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-3009" alt="vivek-3009" /></a> </p>
-
 - 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **DSA and Backend**
