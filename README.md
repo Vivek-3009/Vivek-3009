@@ -1,6 +1,8 @@
 <h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-3009&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-3009" /> </p>
+<br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 I’m currently working on **DSA**
 
