@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vivekbisht309@gmail.com**
 
-- 📄 Know about my experiences [My LinkedIn](My LinkedIn)
+- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/vivek-singh-bisht/)
 
 - ⚡ Fun fact **I code and Gym**
 
